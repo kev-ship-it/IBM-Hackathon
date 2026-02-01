@@ -1,0 +1,20 @@
+AGENTS_DEPLOYMENTS = {
+    "formatter": "8996f078-00b0-4e2b-b1c1-93d8ce69205f",
+    "pe_trainer": "ae1f5b4b-9d6e-4ae9-b914-f01742c6ee82",
+    "botanist": "27486ab3-8a07-46ab-98a8-87b797d88891",
+    "pet_agent": "53332350-77d0-4766-ad5e-9e28bfe4a664",
+    "translator": "244c2c02-11a1-4b97-afc0-7e4bee0e1006",
+    "electricals": "6a4c60f5-b3a3-410e-b2d1-93335c876ca8",
+    "history": "357ac3c3-a255-4dcb-b96f-22702e7ca27c",
+    "evs": "87b085d5-c501-408f-8020-16733544cc69",
+    "finance": "79046efa-7c75-4c38-9e89-77d77012ae53",
+    "law": "043db2b7-bb20-4ad2-b5b5-489cbff0b11b",
+    "medical": "c29bb5d2-a33f-4ba9-9c8b-6a895b53a967",
+    "psychology": "e9424740-7b26-4241-955d-22c495b305e4",
+    "maths": "b7fba44b-5810-43e4-ad1f-07a9d17fcca6",
+    "chem": "2be9f42e-b802-4af0-aacd-2a4470ed350b",
+    "physics": "642d0bfc-bc3a-44fb-986d-622c55e0d0c9",
+    "english": "3249c335-46c6-4535-aca5-3861cb801f84",
+    "cs": "4ba67d5e-1d97-4bcd-9f62-e76ca85b2c13",
+    "input_analyzer": "b2c3b22a-1555-46df-9f66-51c0c5fe0a73"
+}
